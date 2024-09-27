@@ -1,0 +1,5 @@
+This is a project that will display all assets that you have for the program Clip Studio Paint. It is able to redirect you to the location each asset is stored, allowing an easier way to navigate through the Clip Studio Paint folders. Currently, there is no easy way to find each asset on your computer, as the folder system is complicated, and there is no way to find the location of a specific asset from the Clip Studio app. Additionally, downloaded materials cannot be stored in the cloud to be transported to a diferent device. Thus, the folders themselves must be transported over*. This application allow you to identify specific assets to transport.
+
+*The process to transport materials is similarly complicated. Simply moving the folders to the correct location is not enough. You must also go to the Clip Studio app, go to 'Settings', and click 'Download additional materials now'.
+
+This application is under development. It has basic functionality, but more features that allow for better ease of use may still be added.
